@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Postman
+Comment=Postman Desktop
+Exec=/home/<username>/Documents/Postman/Postman
+Path=/home/<username>/Documents/Postman/app
+Icon=/home/<username>/Documents/Postman/app/icons/icon_128x128.png
+Terminal=false
+Type=Application
+Categories=Development;
